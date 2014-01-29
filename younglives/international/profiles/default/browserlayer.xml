@@ -1,0 +1,4 @@
+<layers>
+    <layer name="younglives.content"
+        interface="younglives.international.browser.interfaces.IYounglivesInternational" />
+</layers>
